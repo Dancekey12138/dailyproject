@@ -11,3 +11,19 @@
 
 ## 分类索引
 
+
+## AI/机器学习
+
+- [OpenMythos](OriginInfo/2026/04/22.md#openmythos)
+- [mercury-agent](OriginInfo/2026/04/22.md#mercury-agent)
+- [agent-style](OriginInfo/2026/04/22.md#agent-style)
+- [agent-startup-kit](OriginInfo/2026/04/22.md#agent-startup-kit)
+- [alice](OriginInfo/2026/04/22.md#alice)
+
+## 开源项目
+
+- [browser-harness](OriginInfo/2026/04/22.md#browser-harness)
+- [cc-design](OriginInfo/2026/04/22.md#cc-design)
+- [Cairn](OriginInfo/2026/04/22.md#cairn)
+- [swarm-forge](OriginInfo/2026/04/22.md#swarm-forge)
+- [browser-harness-js](OriginInfo/2026/04/22.md#browser-harness-js)
