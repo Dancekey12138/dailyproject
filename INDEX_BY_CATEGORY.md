@@ -27,3 +27,19 @@
 - [Cairn](OriginInfo/2026/04/22.md#cairn)
 - [swarm-forge](OriginInfo/2026/04/22.md#swarm-forge)
 - [browser-harness-js](OriginInfo/2026/04/22.md#browser-harness-js)
+
+## 开源项目
+
+- [CrabTrap](OriginInfo/2026/04/22.md#crabtrap)
+- [langgraph-ts-workflow](OriginInfo/2026/04/22.md#langgraph-ts-workflow)
+- [mortar](OriginInfo/2026/04/22.md#mortar)
+- [ai-test-generator](OriginInfo/2026/04/22.md#ai-test-generator)
+- [test-intellect-ai](OriginInfo/2026/04/22.md#test-intellect-ai)
+- [RAG-Based-AI-Teaching-Assistant](OriginInfo/2026/04/22.md#rag-based-ai-teaching-assistant)
+- [firestore_query_studio](OriginInfo/2026/04/22.md#firestore_query_studio)
+- [llmrouter](OriginInfo/2026/04/22.md#llmrouter)
+- [InfernoGPT_agent](OriginInfo/2026/04/22.md#infernogpt_agent)
+
+## 开发工具
+
+- [ima2-gen](OriginInfo/2026/04/22.md#ima2-gen)
