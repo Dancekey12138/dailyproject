@@ -43,3 +43,19 @@
 ## 开发工具
 
 - [ima2-gen](OriginInfo/2026/04/22.md#ima2-gen)
+
+## AI/机器学习
+
+- [OpenMythos](OriginInfo/2026/04/23.md#openmythos)
+- [mercury-agent](OriginInfo/2026/04/23.md#mercury-agent)
+- [agent-style](OriginInfo/2026/04/23.md#agent-style)
+
+## 开源项目
+
+- [browser-harness](OriginInfo/2026/04/23.md#browser-harness)
+- [web-design-skill](OriginInfo/2026/04/23.md#web-design-skill)
+- [cc-design](OriginInfo/2026/04/23.md#cc-design)
+- [Cairn](OriginInfo/2026/04/23.md#cairn)
+- [swarm-forge](OriginInfo/2026/04/23.md#swarm-forge)
+- [browser-harness-js](OriginInfo/2026/04/23.md#browser-harness-js)
+- [gpt-image-2-skill](OriginInfo/2026/04/23.md#gpt-image-2-skill)
