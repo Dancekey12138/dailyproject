@@ -59,3 +59,15 @@
 - [swarm-forge](OriginInfo/2026/04/23.md#swarm-forge)
 - [browser-harness-js](OriginInfo/2026/04/23.md#browser-harness-js)
 - [gpt-image-2-skill](OriginInfo/2026/04/23.md#gpt-image-2-skill)
+
+## AI/机器学习
+
+- [alice](OriginInfo/2026/04/24.md#alice)
+- [hi-kid](OriginInfo/2026/04/24.md#hi-kid)
+- [Dump-Assistant-Bot](OriginInfo/2026/04/24.md#dump-assistant-bot)
+
+## 开源项目
+
+- [freellmapi](OriginInfo/2026/04/24.md#freellmapi)
+- [journalAI](OriginInfo/2026/04/24.md#journalai)
+- [DevAssist-AI](OriginInfo/2026/04/24.md#devassist-ai)
