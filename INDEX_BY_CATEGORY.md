@@ -71,3 +71,15 @@
 - [freellmapi](OriginInfo/2026/04/24.md#freellmapi)
 - [journalAI](OriginInfo/2026/04/24.md#journalai)
 - [DevAssist-AI](OriginInfo/2026/04/24.md#devassist-ai)
+
+## 开源项目
+
+- [superlevels](OriginInfo/2026/04/24.md#superlevels)
+
+## AI/机器学习
+
+- [text-to-cad](OriginInfo/2026/04/24.md#text-to-cad)
+
+## 开发工具
+
+- [to-wordpress](OriginInfo/2026/04/24.md#to-wordpress)
