@@ -83,3 +83,17 @@
 ## 开发工具
 
 - [to-wordpress](OriginInfo/2026/04/24.md#to-wordpress)
+
+## AI/机器学习
+
+- [harmonist](OriginInfo/2026/04/25.md#harmonist)
+- [future-agi](OriginInfo/2026/04/25.md#future-agi)
+- [hi-kid](OriginInfo/2026/04/25.md#hi-kid)
+- [Dump-Assistant-Bot](OriginInfo/2026/04/25.md#dump-assistant-bot)
+
+## 开源项目
+
+- [freellmapi](OriginInfo/2026/04/25.md#freellmapi)
+- [paperclip-adapter-custom-llm-local](OriginInfo/2026/04/25.md#paperclip-adapter-custom-llm-local)
+- [journalAI](OriginInfo/2026/04/25.md#journalai)
+- [bug-triage](OriginInfo/2026/04/25.md#bug-triage)
