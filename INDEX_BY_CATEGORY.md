@@ -97,3 +97,19 @@
 - [paperclip-adapter-custom-llm-local](OriginInfo/2026/04/25.md#paperclip-adapter-custom-llm-local)
 - [journalAI](OriginInfo/2026/04/25.md#journalai)
 - [bug-triage](OriginInfo/2026/04/25.md#bug-triage)
+
+## AI/机器学习
+
+- [wanman](OriginInfo/2026/04/26.md#wanman)
+- [stash](OriginInfo/2026/04/26.md#stash)
+
+## 开源项目
+
+- [im-not-ai](OriginInfo/2026/04/26.md#im-not-ai)
+- [auto-memory](OriginInfo/2026/04/26.md#auto-memory)
+- [macos_health_pipelines](OriginInfo/2026/04/26.md#macos_health_pipelines)
+- [claude-code-provider-kit](OriginInfo/2026/04/26.md#claude-code-provider-kit)
+
+## 开发工具
+
+- [SpeechAnalyzer](OriginInfo/2026/04/26.md#speechanalyzer)
