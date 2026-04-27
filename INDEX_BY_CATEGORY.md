@@ -113,3 +113,12 @@
 ## 开发工具
 
 - [SpeechAnalyzer](OriginInfo/2026/04/26.md#speechanalyzer)
+
+## 开源项目
+
+- [oh-story-claudecode](OriginInfo/2026/04/27.md#oh-story-claudecode)
+- [ai-image-caption-pro](OriginInfo/2026/04/27.md#ai-image-caption-pro)
+
+## AI/机器学习
+
+- [AAI2Lama](OriginInfo/2026/04/27.md#aai2lama)
