@@ -122,3 +122,15 @@
 ## AI/机器学习
 
 - [AAI2Lama](OriginInfo/2026/04/27.md#aai2lama)
+
+## AI/机器学习
+
+- [open-design](OriginInfo/2026/04/28.md#open-design)
+
+## 开源项目
+
+- [vllm-swift](OriginInfo/2026/04/28.md#vllm-swift)
+- [terraform-risk-assessor](OriginInfo/2026/04/28.md#terraform-risk-assessor)
+- [Layla-Server](OriginInfo/2026/04/28.md#layla-server)
+- [claude-max-api-proxy](OriginInfo/2026/04/28.md#claude-max-api-proxy)
+- [claude-code-tts](OriginInfo/2026/04/28.md#claude-code-tts)
