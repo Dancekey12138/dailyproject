@@ -134,3 +134,9 @@
 - [Layla-Server](OriginInfo/2026/04/28.md#layla-server)
 - [claude-max-api-proxy](OriginInfo/2026/04/28.md#claude-max-api-proxy)
 - [claude-code-tts](OriginInfo/2026/04/28.md#claude-code-tts)
+
+## 开源项目
+
+- [FL-Production-25.2.5-DAW](OriginInfo/2026/04/29.md#fl-production-25.2.5-daw)
+- [Awesome-GPT-Image-2-OpenAi](OriginInfo/2026/04/29.md#awesome-gpt-image-2-openai)
+- [gemini-plugin-cc](OriginInfo/2026/04/29.md#gemini-plugin-cc)
