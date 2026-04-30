@@ -140,3 +140,15 @@
 - [FL-Production-25.2.5-DAW](OriginInfo/2026/04/29.md#fl-production-25.2.5-daw)
 - [Awesome-GPT-Image-2-OpenAi](OriginInfo/2026/04/29.md#awesome-gpt-image-2-openai)
 - [gemini-plugin-cc](OriginInfo/2026/04/29.md#gemini-plugin-cc)
+
+## 开源项目
+
+- [mike](OriginInfo/2026/04/30.md#mike)
+- [AIbijia](OriginInfo/2026/04/30.md#aibijia)
+- [reversa](OriginInfo/2026/04/30.md#reversa)
+- [oh-my-ppt](OriginInfo/2026/04/30.md#oh-my-ppt)
+- [ai4anim-webgpu](OriginInfo/2026/04/30.md#ai4anim-webgpu)
+- [coinbase-trading-bot](OriginInfo/2026/04/30.md#coinbase-trading-bot)
+- [GodModeSkill](OriginInfo/2026/04/30.md#godmodeskill)
+- [WRITING.md](OriginInfo/2026/04/30.md#writing.md)
+- [AI_Personal_Trainer](OriginInfo/2026/04/30.md#ai_personal_trainer)
