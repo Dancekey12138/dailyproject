@@ -152,3 +152,14 @@
 - [GodModeSkill](OriginInfo/2026/04/30.md#godmodeskill)
 - [WRITING.md](OriginInfo/2026/04/30.md#writing.md)
 - [AI_Personal_Trainer](OriginInfo/2026/04/30.md#ai_personal_trainer)
+
+## 开源项目
+
+- [dictionary-of-ai-coding](OriginInfo/2026/05/01.md#dictionary-of-ai-coding)
+- [club-3090](OriginInfo/2026/05/01.md#club-3090)
+- [Acrobat-Editor-2026](OriginInfo/2026/05/01.md#acrobat-editor-2026)
+- [designpull](OriginInfo/2026/05/01.md#designpull)
+
+## AI/机器学习
+
+- [openless](OriginInfo/2026/05/01.md#openless)
