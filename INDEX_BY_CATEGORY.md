@@ -163,3 +163,11 @@
 ## AI/机器学习
 
 - [openless](OriginInfo/2026/05/01.md#openless)
+
+## 开源项目
+
+- [Claude-Code-AI-Design](OriginInfo/2026/05/02.md#claude-code-ai-design)
+- [Stable-Diffusion-AI-Free](OriginInfo/2026/05/02.md#stable-diffusion-ai-free)
+- [WispWind](OriginInfo/2026/05/02.md#wispwind)
+- [llm-keypool](OriginInfo/2026/05/02.md#llm-keypool)
+- [ollama-plugin-cc](OriginInfo/2026/05/02.md#ollama-plugin-cc)
