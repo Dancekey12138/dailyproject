@@ -171,3 +171,13 @@
 - [WispWind](OriginInfo/2026/05/02.md#wispwind)
 - [llm-keypool](OriginInfo/2026/05/02.md#llm-keypool)
 - [ollama-plugin-cc](OriginInfo/2026/05/02.md#ollama-plugin-cc)
+
+## 开源项目
+
+- [agent-to-merchant-payments](OriginInfo/2026/05/03.md#agent-to-merchant-payments)
+- [Prism](OriginInfo/2026/05/03.md#prism)
+- [pg-embedding-gen-by-yhw](OriginInfo/2026/05/03.md#pg-embedding-gen-by-yhw)
+
+## AI/机器学习
+
+- [ai-trading-agent](OriginInfo/2026/05/03.md#ai-trading-agent)
